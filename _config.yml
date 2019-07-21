@@ -1,9 +1,9 @@
 # Site settings
-title: "Eric News"
+title: "Techd News"
 url-title: "Tin giật gân, thời sự"
 description: "Tin tức và thời sự"
 paginate: 100
-url: "https://ericweight.info/"
+url: "https://techdsi.com/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
