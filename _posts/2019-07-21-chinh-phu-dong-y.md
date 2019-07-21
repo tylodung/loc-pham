@@ -16,7 +16,7 @@ Chính phủ đã đồng ý bỏ các thủ tục về sổ hộ khẩu, giấy
 
 Thủ tướng chính phủ Nguyễn Xuân Phúc vừa ký ban hành Nghị quyết 112/NQ-CP của chính phủ về việc đơn giản hóa thủ tục hành chính, giấy tờ công dân liên quan đến quản lý dân cư thuộc phạm vi chức năng quản lý nhà nước của Bộ Công an. 
 
-Bỏ sổ hộ khẩu, chứng minh nhân dân
+**Bỏ sổ hộ khẩu, chứng minh nhân dân**
 
 Theo đó, Chính phủ thông qua phương án của Bộ Công an về việc bỏ các thủ tục về sổ hộ khẩu, giấy chứng minh nhân dân trong quản lý dân cư để thống nhất việc quản lý bằng mã số định danh cá nhân.
 

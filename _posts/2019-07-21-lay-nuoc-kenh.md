@@ -14,7 +14,7 @@ Dù đã bị cấm nhưng Công ty CP Cấp nước Nghệ An vẫn “lén lú
 
 Dòng kênh chứa nước đục ngầu với đủ loại rác thải, chất thải bị UBND tỉnh Nghệ An cấm sử dụng làm nước sạch từ năm 2017. Tuy nhiên, Công ty CP Cấp nước Nghệ An vẫn “lén lút” bơm nước từ dòng kênh này thay vì mua nước thô từ đơn vị khác.
 
-Nước bẩn, chỉ số vượt ngưỡng được lấy làm nước sạch
+**Nước bẩn, chỉ số vượt ngưỡng được lấy làm nước sạch**
 
 Thời gian gần đây, người dân sinh sống 2 bên sông Đào (kênh Nam Đàn) không khỏi ngạc nhiên khi nước từ dòng sông ô nhiễm này được Công ty CP Cấp nước Nghệ An bơm, làm nước sạch bán cho dân. Chị Nguyễn Thị N. (trú xã Nam Giang, Nam Đàn) cho biết: “Sau một thời gian dừng hoạt động, nhiều tháng trở lại đây Trạm bơm nước Cầu Mượu bất ngờ hoạt động trở lại. Họ bơm nước suốt đêm từ dưới sông Đào lên để làm nước sạch”.
 
@@ -22,7 +22,7 @@ Là đơn vị được hợp đồng kiểm nghiệm mẫu nước thô của C
 
 Cụ thể, tháng 3/2018 chỉ số Nitrit (NO2-) trong mẫu nước lấy từ Sông Đào lên đều vượt ngưỡng rất cao. “Chỉ số NO2 là chỉ số thể hiện tạp chất hữu cơ trong nước. Khi chỉ số này cao chứng tỏ tạp chất hữu cơ phân hủy từ xác động vật, thực vật trong nước cao, có thể gây ra các bệnh ảnh hưởng đến sức khỏe người sử dụng”, bác sĩ Chu Trọng Trang, Phó giám đốc Trung tâm Y tế dự phòng tỉnh Nghệ An giải thích.
 
-Cố tình chống lệnh tỉnh để trục lợi 
+**Cố tình chống lệnh tỉnh để trục lợi** 
 
 Trước câu hỏi tại sao tỉnh đã yêu cầu Trạm bơm nước thô Cầu Mượu ngừng hoạt động mà Trung tâm vẫn lấy mẫu kiểm nghiệm, bác sĩ Hòa (Trung tâm Y tế dự phòng tỉnh Nghệ An) giải thích: “Trước đây, chúng tôi chỉ lấy mẫu nước thô sông Đào ở vị trí cầu Bạch để phân tích (cách Cầu Mượu khoảng 1km). Từ tháng 1/2019, thực hiện hợp đồng với Công ty CP Cấp nước Nghệ An, chúng tôi tiến hành lấy mẫu kiểm nghiệm thêm ở đây và cung cấp kết quả cho họ, còn họ dùng vào mục đích gì chúng tôi không biết”.
 
