@@ -3,7 +3,7 @@ title: "Techd News"
 url-title: "Tin giật gân, thời sự"
 description: "Tin tức và thời sự"
 paginate: 100
-url: "https://techdsi.com/"
+url: "https://sagetech.info/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
